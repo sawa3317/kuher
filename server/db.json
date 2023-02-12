@@ -1,0 +1,148 @@
+{
+  "adCategories": [
+    {
+      "id": 1,
+      "name": "Работа и бизнес",
+      "img": "https://i.doska.by/img/main/work.png",
+      "ads": []
+    },
+    {
+      "id": 2,
+      "name": "Транспорт",
+      "img": "https://i.doska.by/img/main/transport.png"
+    },
+    {
+      "id": 3,
+      "name": "Недвижимость",
+      "img": "https://i.doska.by/img/main/real-estate.png"
+    },
+    {
+      "id": 4,
+      "name": "Строительство",
+      "img": "https://i.doska.by/img/main/construction.png"
+    },
+    {
+      "id": 5,
+      "name": "Электротехника",
+      "img": "https://i.doska.by/img/main/electronics.png"
+    },
+    {
+      "id": 6,
+      "name": "Одежда, обувь",
+      "img": "https://i.doska.by/img/main/clothes-footwear.png"
+    },
+    {
+      "id": 7,
+      "name": "Для дома",
+      "img": "https://i.doska.by/img/main/home-stuff.png"
+    },
+    {
+      "id": 8,
+      "name": "Производство",
+      "img": "https://i.doska.by/img/main/production-work.png"
+    },
+    {
+      "id": 9,
+      "name": "Для детей",
+      "img": "https://i.doska.by/img/main/for-children.png"
+    },
+    {
+      "id": 10,
+      "name": "Животные",
+      "img": "https://i.doska.by/img/main/animals.png"
+    },
+    {
+      "id": 11,
+      "name": "Сельское хозяйство",
+      "img": "https://i.doska.by/img/main/agriculture.png"
+    },
+    {
+      "id": 12,
+      "name": "Отдых, увлечения",
+      "img": "https://i.doska.by/img/main/entertainment.png"
+    }
+  ],
+  "users": [
+    {
+      "email": "sawa.3317@gmail.com",
+      "password": "ddsg",
+      "id": 1
+    }
+  ],
+  "ads": [
+    {
+      "category": "Строительство",
+      "price": 0,
+      "text": "fdsfsdfsdfsd",
+      "city": "",
+      "id": 1
+    },
+    {
+      "category": "Транспорт",
+      "label": "",
+      "price": 0,
+      "description": "",
+      "city": "",
+      "name": "мсчаываываыва",
+      "id": 2
+    },
+    {
+      "category": "Транспорт",
+      "label": "",
+      "price": 0,
+      "description": "",
+      "city": "",
+      "name": "мсчаываываыва",
+      "id": 3
+    },
+    {
+      "category": "Транспорт",
+      "label": "",
+      "price": 0,
+      "description": "",
+      "city": "",
+      "name": "мсчаываываыва",
+      "id": 4
+    },
+    {
+      "category": "Работа и бизнес",
+      "name": "vindorionfds",
+      "price": 34,
+      "description": "fsdfsdfsdgsdgdfgfdgdfgdfgsfdgsdfgsdfgf",
+      "city": "",
+      "id": 5
+    },
+    {
+      "category": "Работа и бизнес",
+      "name": "vindorionfds",
+      "price": 34,
+      "description": "fsdfsdfsdgsdgdfgfdgdfgdfgsfdgsdfgsdfgf",
+      "city": "",
+      "id": 6
+    },
+    {
+      "category": "Работа и бизнес",
+      "name": "vindorionfds",
+      "price": 34,
+      "description": "fsdfsdfsdgsdgdfgfdgdfgdfgsfdgsdfgsdfgf",
+      "city": "",
+      "id": 7
+    },
+    {
+      "category": "Работа и бизнес",
+      "name": "vindorionfds",
+      "price": 34,
+      "description": "fsdfsdfsdgsdgdfgfdgdfgdfgsfdgsdfgsdfgf",
+      "city": "",
+      "id": 8
+    },
+    {
+      "category": "Работа и бизнес",
+      "name": "vindorionfds",
+      "price": 34,
+      "description": "fsdfsdfsdgsdgdfgfdgdfgdfgsfdgsdfgsdfgf",
+      "city": "",
+      "id": 9
+    }
+  ]
+}

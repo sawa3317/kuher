@@ -1,0 +1,40 @@
+
+.header {
+    margin-top: 10px;
+}
+
+.header__wraper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    height: 50px;
+}
+
+.header__logo img {
+    height: 100%;
+}
+
+.header__nav {
+    padding-left: 50px;
+    background: linear-gradient(90deg, #fff 0%, #50a060 10%);
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+}
+
+.header__link {
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+}
+
+.header__link:hover {
+    text-decoration:underline;
+}

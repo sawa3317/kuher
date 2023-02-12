@@ -1,0 +1,21 @@
+.category {
+    width: 250px;
+    border-bottom: 2px solid #50a060;
+    border-image: linear-gradient(90deg, #50a060 50%, #fff 100%);
+    border-image-slice: 1;
+    margin: 40px 20px;
+    position: relative;
+}
+
+.category__title {
+    width: 100%;
+    font-weight: bold;
+    font-size: 18px;
+    color: #000;
+}
+
+.category__img {
+    position: absolute;
+    top: -15px;
+    left: 160px;
+}
